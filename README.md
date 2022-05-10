@@ -3,8 +3,8 @@
 
 ### A XOR linked list is a doubly linked list that takes the advantage of the XOR operation to save memory. In it the address of a node is a bitwise XOR of the addresses of the next and previous node. 
 
-Instructions:
-(# means a number)
+### Instructions:<br />
+(# means a number)<br />
 ADD_BEG # - add a number to the beginning of the list<br />
 ADD_END # - add a number to the end of the list<br />
 ADD_ACT # - add a number behind the [ACTUAL](#act) node<br />
