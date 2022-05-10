@@ -1,11 +1,7 @@
-### XOR-list
-## My implementation of a XOR list in C++
+# XOR-list
+## My implementation of a XOR list in C++. It was a project for university and now it's here.
 
-## It was a project for university and now it's here.
-
-#
-
-# A XOR linked list is a doubly linked list that takes the advantage of the XOR operation to save memory. In it the address of a node is a bitwise XOR of the addresses of the next and previous node. 
+### A XOR linked list is a doubly linked list that takes the advantage of the XOR operation to save memory. In it the address of a node is a bitwise XOR of the addresses of the next and previous node. 
 
 Instructions:
 (# means a number)
